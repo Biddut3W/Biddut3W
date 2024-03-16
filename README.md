@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [my git repo]
 
-- 📫 How to reach me **biddut.chandro.roy2@gmail.com**
+- 📫 How to reach me **biddut.triplewsols@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
